@@ -1,0 +1,17 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+@media (min-width: 768px)
+{
+    #content{
+        display: block;
+        position: fixed;
+        top: 5rem;
+
+        left: 0;
+        width: 18rem;
+        bottom: 0;
+    }
+
+
+}
+    
