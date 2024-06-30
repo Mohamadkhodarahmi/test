@@ -1,7 +1,6 @@
 @import "bootstrap/dist/css/bootstrap.css";
 
-@media (min-width: 768px)
-{
+
     #content{
         display: block;
         position: fixed;
@@ -11,7 +10,34 @@
         width: 18rem;
         bottom: 0;
     }
+    #form{
+        display: block;
+       position: fixed;
+        top: 5rem;
+        left: 4rem;
 
 
 }
+    #bg{
+        background-color: aquamarine ;
+
+
+
+    }
+
+    #email{
+        border-color: black;
+    }
+    #lname{
+        border-color: black;
+    }
+    #fname{
+        border-color: black;
+    }
+    #cart{
+        padding-top: 5rem;
+
+    }
+
+
     
